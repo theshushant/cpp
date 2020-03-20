@@ -1,0 +1,33 @@
+﻿/*P2.1 Program to input values into an array and display them*/
+/*P2.2 Program to find the largest and smallest number in an array*/
+/*P2.3  Program to reverse the elements of an array*/
+/* P2.4 Program to pass array elements to a function */
+/*P2.5  Program to pass an array to a function*/   
+/*P2.6 Program to input and display a matrix*/
+/* P2.7 Program for addition of two matrices.*/
+/*P2.8  Program for multiplication of two matrices*/
+/*P2.9 Program to dereference pointer variables*/
+/*P2.10 Program to understand pointer to pointer*/
+/*P2.11 Program to print the value and address of the elements of an array */
+/*P2.12 Program to print the value and address of elements of an array using pointer notation*/
+/*P2.13  Call by value*/
+/*P2.14 Call by reference*/
+/*P2.15 Program to show how to return more than one value from a function using call by reference*/
+/*P2.16 Program to show a function that returns pointer*/
+/*P2.17 Program to show that changes to the array made inside the function affect the original array */
+/*P2.18  When an array is passed to a function, the receiving argument is declared as a pointer */
+/*P2.19 Array of pointers */
+/*P2.20 Program to understand dynamic allocation of memory*/
+/*P2.21 Program to understand the use of realloc() function*/
+/*P2.22 Program to display the values of structure members*/
+/*P2.23 Program to assign a structure variable to another structure variable*/
+/*P2.24 Program to understand array of structures*/
+/*P2.25 Program to understand arrays within structures*/
+/*P2.26 Program to understand pointers to structures*/
+/*P2.27 Program to understand how structure members are sent to a function */
+/*P2.28 Program to understand how a structure variable is sent to a function */
+/*P2.29 Program to understand how a pointer to structure variable is sent to a function */
+/*P2.30 Program to understand how a structure variable is returned from a function */
+/*P2.31 Program to understand how a pointer to structure is returned from a function */
+/*P2.32 Program to understand how an array of structures is sent to a function */
+
